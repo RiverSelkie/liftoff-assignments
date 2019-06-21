@@ -7,11 +7,25 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+My project will be a web app for historical re-enactors to check the climate type for the area of the event they are planning to attend and compare it with similar climates in Europe and Asia to see which cultures have clothing that would be suited to that climate.  I would like to than make the results refinable by garment and style types as well as by time period.
+
+
 ### Features
-Include Features here
+
+Search - Users will be able to search by climate type, garment type, and time period
+Map - There will be a clickable map that will have a breakdown of corresponding climate regions and cultures in Europe and Asia.
+User Login - Users will be able to create an account to save thier favourite garments.
+
+
 ### Technologies
-Include Technologies here
+Python
+Flask
+HTML
+CSS
+MYSQL
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+I'll need to look into the benefits of Angular and JavaScript for final layout design.
+
+
